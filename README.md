@@ -8,8 +8,8 @@ To use this python script
 2. Replace the passage within the _passage.txt_ file
 3. Run the python file 
 4. Wait for the _tk_ to appear 
-5. Press the generate button to generate the first possible map from the passage
-6. Press the generate button until a satisfactory map is generated
+5. Press the generate button to generate the first game map from the passage
+6. Press the generate button until a satisfactory game map is generated
 
 Send the coloured map to the Spy Masters, the blank map to the opperatives, and play!
 
