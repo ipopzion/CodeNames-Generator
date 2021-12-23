@@ -1,2 +1,2 @@
 # CodeNames-Generator
-Light hearted helper to generate a CodeNames game map from a passage
+Light hearted helper to generate a CodeNames game map from a passage within a .txt file
