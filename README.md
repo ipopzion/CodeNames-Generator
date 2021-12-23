@@ -8,5 +8,5 @@ To use this python script
 3. Press the refresh button until a satisfactory map appears
 4. Send the blank map to the opperatives on both sides, and play!
 
-![image](https://user-images.githubusercontent.com/80518234/147224046-bef9cdb3-509f-4e84-81f2-390bf9953986.png)
-Example taken from Full Transcript of Lee Hsien Loong's speech on Transitioning to Phase 3, on 14 Dec 2020
+![image](https://user-images.githubusercontent.com/80518234/147224399-e843456b-aee3-40d4-8507-dbbc63ac9fc6.png)
+_Example taken from Full Transcript of Lee Hsien Loong's speech on Transitioning to Phase 3, on 14 Dec 2020_
