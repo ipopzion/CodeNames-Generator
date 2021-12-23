@@ -1,5 +1,5 @@
 # CodeNames-Generator
-Light hearted helper to generate a CodeNames game map from an english passage 
+Light hearted helper to generate a CodeNames game map from any english passages
 
 # Instructions 
 _This script only runs on python, on windows_
@@ -8,8 +8,10 @@ To use this python script
 2. Replace the passage within the _passage.txt_ file
 3. Run the python file 
 4. Wait for the _tk_ to appear 
-5. Press the refresh button until a satisfactory map appears
-6. Send the blank map to the opperatives on both sides, and play!
+5. Press the generate button to generate the first possible map from the passage
+6. Press the generate button until a satisfactory map is generated
+
+Send the coloured map to the Spy Masters, the blank map to the opperatives, and play!
 
 # Example
 ![image](https://user-images.githubusercontent.com/80518234/147224399-e843456b-aee3-40d4-8507-dbbc63ac9fc6.png)
