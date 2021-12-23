@@ -14,5 +14,5 @@ To use this python script
 Send the coloured map to the Spy Masters, the blank map to the opperatives, and play!
 
 # Example
-![image](https://user-images.githubusercontent.com/80518234/147224399-e843456b-aee3-40d4-8507-dbbc63ac9fc6.png)
+![image](https://user-images.githubusercontent.com/80518234/147224399-e843456b-aee3-40d4-8507-dbbc63ac9fc6.png)  
 _Passage taken from Lee Hsien Loong's speech on Transitioning to Phase 3, on 14 Dec 2020_
